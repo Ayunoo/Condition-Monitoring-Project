@@ -26,7 +26,7 @@ Using an MPU6050 3-axis accelerometer/gyroscope module, the system acquires real
 
 ## 🧑‍💻 Code Structure
 
-### 🔹 `AnalyzingData.py`
+### 🔹 `CollectingData.py`
 > Python script for data acquisition, FFT computation, and automatic unbalance detection.
 
 ### 🔹 `UnoCode.ino`
