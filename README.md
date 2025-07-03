@@ -53,7 +53,7 @@ Alternatively, use the GUI version of `AnalyzingData.py` to load and analyze pre
 
 ## 🎓 Presentation Resources
 
-- 📑 [Download the PowerPoint presentation: `ProjectPresentation.pptx`](https://github.com/AdrienUser/Fan-Vibration-Analysis/raw/main/ProjectPresentation.pptx)
+- 📑 [Download the PowerPoint presentation: `ProjectPresentation.pptx`](https://github.com/Ayunoo/Condition-Monitoring-Project/blob/main/PresentationProject.pptx)
 - 📺 [Watch the project presentation on YouTube](https://youtu.be/3-jeOoLR8ko)
 
 ---
