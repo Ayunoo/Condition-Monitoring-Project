@@ -75,5 +75,5 @@ This project is released for academic and educational use only.
 ## 🤝 Acknowledgements
 
 Special thanks to:
-- The **MEMM1263 Condition Monitoring** course and instructors for the theoretical framework.  
+- The **MEMM1263 Condition Monitoring** course and Dr Zair Asrar for the theoretical framework.  
 - The **Electrical Laboratory** for providing access to the equipment and space used during data collection.
